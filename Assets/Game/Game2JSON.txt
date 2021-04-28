@@ -1,0 +1,14 @@
+{
+    "player": [
+    {
+"correct":[ "MAKAS", "KA\u015EIK", "K\u0130BR\u0130T","LEYLEK","ZURNA","D\u00DC\u011EME","Z\u0130NC\u0130R",
+		 "KED\u0130","BALON","GAZETE" ],
+"wrong":[ "X", "Y", "Z","A","B","C","D",
+		 "E","F","G" ]
+}
+
+
+
+    
+    ]
+}

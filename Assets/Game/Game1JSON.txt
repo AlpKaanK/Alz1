@@ -1,0 +1,68 @@
+{
+    "player": [
+    {  
+
+
+                  "header" : "ATE\u015E",
+                 "words" : ["YANGIN", "ARABA", "SU"],
+                 "check" : [true,false,false]
+    },
+    { 
+    "header" : "BU\u011EDAY",
+                 "words" : ["BENZ\u0130N", "\u00C7AY", "EKMEK"],
+                 "check" : [false,false,true]
+    },
+    
+    { 
+    "header" : "KA\u015EIK",
+                 "words" : ["\u00C7AKMAK", "\u00C7ORBA", "K\u00D6FTE"],
+                 "check" : [false,true,false]
+    },
+    
+     {
+    "header" : "KAR",
+                 "words" : ["KI\u015E", "KALEM", "S\u0130GARA"],
+                 "check" : [true,false,false]
+    },
+    
+    {
+    "header" : "ALTIN",
+                 "words" : ["FABRIKA", "OTEL", "MADEN"],
+                 "check" : [false,false,true]
+    },
+    
+    {
+    "header" : "TOP",
+                 "words" : ["Y\u00DCN", "YUVARLAK", "S\u0130VR\u0130"],
+                 "check" : [false,true,false]
+    },
+    
+    {
+    "header" : "HASTA",
+                 "words" : ["EV", "MEYVE", "\u0130LA\u00C7"],
+                 "check" : [false,false,true]
+    },
+
+    {
+    "header" : "OKUL",
+                 "words" : ["KALEM", "RENK", "TAT\u0130L"],
+                 "check" : [true,false,false]
+    },
+
+    {
+    "header" : "K\u0130BR\u0130T",
+                 "words" : ["SU", "ALEV", "KUR\u015EUN"],
+                 "check" : [false,true,false]
+    },
+
+    {
+    "header" : "DAVUL",
+                 "words" : ["SAZ", "S\u0130LG\u0130", "TOKMAK"],
+                 "check" : [false,false,true]
+    }
+
+
+
+    
+    ]
+}

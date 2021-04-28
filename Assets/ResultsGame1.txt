@@ -1,0 +1,5 @@
+
+
+{"date":27.04.2021 15:35:17,"timer1":5,"wrong":14,"game2score":2}
+{"date":28.04.2021 16:21:22,"timer1":5,"wrong":14,"game2score":2}
+{"date":28.04.2021 16:22:18,"timer1":5,"wrong":14,"game2score":2}
